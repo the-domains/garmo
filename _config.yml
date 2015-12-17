@@ -1,7 +1,7 @@
 name: Garmo
 favicon: null
-layout_spectrum: 0.7512718085199594
-typography_spectrum: 0.11443668743595481
+layout_spectrum: 0.22549
+typography_spectrum: 0.73964
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.10954987374134362
+  brandStrength: 0.5
   lightness: 0.7083522854372859
   saturation: 0.5914218828547746
   rhythmicContrast: 0.1311982898041606

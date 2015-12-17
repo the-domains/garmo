@@ -1,0 +1,28 @@
+name: Garmo
+favicon: null
+layout_spectrum: 0.7512718085199594
+typography_spectrum: 0.11443668743595481
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.10954987374134362
+  lightness: 0.7083522854372859
+  saturation: 0.5914218828547746
+  rhythmicContrast: 0.1311982898041606
+purpose: []
